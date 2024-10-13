@@ -1,0 +1,39 @@
+{
+  "id": "atlas-de-arton",
+  "title": "Atlas de Arton & Ameaças de Arton",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "Pacote Não-Oficial com os conteúdos do Atlas &amp; Ameaças de Arton para Tormenta20.",
+  "authors": [
+    {
+      "name": "mob_guilherme"
+    }
+  ],
+  "packs": [
+    {
+      "name": "atlas-de-arton",
+      "label": "Atlas de Arton",
+      "path": "packs/atlas-de-arton",
+      "type": "Item",
+      "system": "tormenta20",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ameacas-de-arton",
+      "label": "Ameaças de Arton",
+      "path": "packs/ameacas-de-arton",
+      "type": "Item",
+      "system": "tormenta20",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
