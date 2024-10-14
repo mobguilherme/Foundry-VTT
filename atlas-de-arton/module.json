@@ -35,5 +35,7 @@
         "ASSISTANT": "OWNER"
       }
     }
-  ]
+  ],
+  "manifest": "https://github.com/mobguilherme/Foundry-VTT/blob/main/atlas-de-arton/module.json",
+  "download": "https://github.com/mobguilherme/Foundry-VTT/archive/refs/heads/main.zip"
 }
