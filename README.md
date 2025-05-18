@@ -70,6 +70,7 @@ Eu não vou deixar os links aqui, pois pode ter um erro de compatibilidade com a
 - Share Media: Adiciona um botão para mostrar imagens aos jogadores;
 - Simple Calendar: Adiciona um calendário ao Foundry, que permite adicionar notas as datas, além de controlar o horário. Na base, não há compatibilidade com o calendário de Arton, mas a comunidade de T20 criou um, acesse https://www.reddit.com/r/Tormenta/comments/xvuw6q/calendário_de_arton/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 - Tile Scroll: Adiciona um efeito nos tiles para criar um efeito de paralaxia, algo que pode fazer uma cena que passe a sensação de movimento, como uma perseguição a cavalo.
+- Token Aura Ring: Permite adicionar, editar e remover auras para tokens, algo de extrema importância para T20.
 - Tokens Frames: Adiciona bordas para fazer tokens dentro do Foundry, ele apenas adiciona as bordas, para criar o token, você precisa ter o Tokenizer (abaixo);
 - Tokenizer: Adiciona uma interface para criar tokens dentro do Foundry, Tokens Frames adiciona várias bordas diferentes, mas você também pode adicionar a sua própria;
 - Token Magic FX: Adiciona um Compendium completo com macros com efeitos para os tokens, como uma borda brilhante, um token pegando fogo, entre outros;
