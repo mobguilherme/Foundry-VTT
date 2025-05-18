@@ -30,7 +30,9 @@ Aqui é uma região de vídeos e canais que falam sobre o uso do Foundry, módul
 - Mestre Digital (https://www.youtube.com/@MestreDigital): Outro canal brasileiro, mas que foca o seu conteúdo no Foundry, falando sobre diversos vídeos sobre os módulos com diversas compatibilidades para as versões do foundry e sistemas. Ele fala sobre as versões mais recentes do Foundry nos vídeos mais novos.
 - Alaustin (https://www.youtube.com/@alaustin./videos): Um canal em inglês que tem poucos vídeos sobre alguns outros sistemas e alguns tutorias mais simples, o vídeo dele que pode mais ajudar é pra quem estiver transicionando do Roll20 gratuito (sem luz dinâmica) para o Foundry (com luz dinâmica). https://youtu.be/Jssi4RGDL9Y?si=NmtNk2FbqoQlmONU
 - Youtube: Uma dica óbvia, mas que é bom deixar explícito aqui, o youtube é seu amigo, pesquisar palavras chaves em inglês do que você queira fazer junto a palavra Foundry pode ter um resultado bem positivo.
-- Reddit (https://www.reddit.com/r/FoundryVTT/): A comunidade do Foundry no reddit pode ser bem agradavel para algumas dúvidas mais específicas, mas, um conselho, evite falar que a sua versão é pirateada, os gringos podem ser bem agressivos com quem pratica pirataria, eles apenas ignoram a realidade brasileira e acham um absurdo você não querer pagar 280 reais em um produto de RPG.
+- Reddit (https://www.reddit.com/r/FoundryVTT/): A comunidade do Foundry no reddit pode ser bem agradavel para algumas dúvidas mais específicas.
+- Reddit (https://www.reddit.com/r/Tormenta/): Também temos a comunidade de Tormenta20, você pode entrar em contato por lá para tirar dúvidas gerais do sistema e talvez relacionadas ao foundry, mas em português, a chance de ser respondido é menor, mas pode te facilitar.
+- Discord do Módulo do Sistema (https://discord.gg/dNXATYs8): Também temos o discord que a comunidade sobre T20 no FoundryVTT se une e tira dúvidas uns dos outros.
 
 # Módulos para T20
 Eu não vou deixar os links aqui, pois pode ter um erro de compatibilidade com as versões, mas eu vou falar o nome e pra que eu uso o módulo.
@@ -54,6 +56,7 @@ Eu não vou deixar os links aqui, pois pode ter um erro de compatibilidade com a
 - JB2A: Conteúdo gratuito para fazer animações de ataques, magias, entre outros. Ele interage diretamente com o Automated Animations (descrito acima);
 - Forgotten Adventures Battlempas: Adiciona uma interface interna que lhe dar acesso ao site https://www.forgotten-adventures.net/ que possui mapas pagos e gratuitos dos mais diversos cenários de RPG, podendo importar ele diretamente para o Foundry, o que pode facilitar o uso de mapas improvisados.
 - Universal Battlemap Importer: Adiciona um botão na aba de cenas que possibiita importar alguns arquivos especiais, especialmente do DungeonDraft que já vem com algumas configurações prontas, como portas, janelas, pareces e luzes;
+- Mana's Compendium Importer: Um dos mais importantes da lista, permite exportar e importar compendiuns de um mundo para o outro.
 - Minimal UI: Permite mudar a interface do Foundry, para algo mais espalhafatoso ou mais minimalista;
 - Module Management: Um módulo que permite uma melhor interface para mexer nos módulos;
 - Monk's Active Tiles Triggers: Permite ter diversas interações com tiles (peças) que você pode upar, mas, por exemplo, colocar uma imagem transparente permite ter uma tela interativa para os jogadores, dentre outras funcionalidades como abrir jornais, mudar cenas, rolar um macro, teleportar personagens para regiões diferentes, entre outras;
@@ -67,13 +70,9 @@ Eu não vou deixar os links aqui, pois pode ter um erro de compatibilidade com a
 - Share Media: Adiciona um botão para mostrar imagens aos jogadores;
 - Simple Calendar: Adiciona um calendário ao Foundry, que permite adicionar notas as datas, além de controlar o horário. Na base, não há compatibilidade com o calendário de Arton, mas a comunidade de T20 criou um, acesse https://www.reddit.com/r/Tormenta/comments/xvuw6q/calendário_de_arton/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 - Tile Scroll: Adiciona um efeito nos tiles para criar um efeito de paralaxia, algo que pode fazer uma cena que passe a sensação de movimento, como uma perseguição a cavalo.
-- Token Auras: Em T20, muitos personagens tem efeitos de aura e os efeitos do Foundry não se arrastar junto dos personagens, esse módulo adiciona essa funcionalidade.
 - Tokens Frames: Adiciona bordas para fazer tokens dentro do Foundry, ele apenas adiciona as bordas, para criar o token, você precisa ter o Tokenizer (abaixo);
 - Tokenizer: Adiciona uma interface para criar tokens dentro do Foundry, Tokens Frames adiciona várias bordas diferentes, mas você também pode adicionar a sua própria;
 - Token Magic FX: Adiciona um Compendium completo com macros com efeitos para os tokens, como uma borda brilhante, um token pegando fogo, entre outros;
 - Torch: Adicona um botão ao token que permite ao token emitir uma luz configurável como se o personagem estivesse com uma tocha;
 
 Vários desses módulos possuem pendências, outros módulos que são necessários para fazer eles rodarem, eu não listei eles aqui, mas eles serão pedidos assim que forem instalados, o Foundry irá perguntar se você quer também instalar as pendências, basta aceitar que a instalação será feita em conjunto. 
-
-# Ameaças & Atlas de Arton para FoundryVTT
- 
