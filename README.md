@@ -11,8 +11,7 @@ https://vizael.gitlab.io/tormenta20-fvtt/
 
 Como eu disse, tudo na ficha funciona a base de efeitos, eles podem ser editados e modificados para caber nos efeitos que você queira, talvez uma homebrew ou até mesmo de um suplemento que não tenha suporte direto para o Foundry.
 
-# Foundry V11 e Compatibilidade
-A versão que eu tenho disponível no drive acima é a versão 11.314, uma ótima versão do foundry que tem recursos built-in que junto ao sistema pode gerar uma mesa bem feita. Os módulos que irei falar mais abaixo estão todos compatíveis para a a V11. Nem todos os módulos e funcionalidades que você pode ver em vídeos/posts são compatíveis com a V11.
+# Foundry V12 e Compatibilidade
 Os módulos que aparecem na lista de instalação dentro do foundry são todos compatíveis com a versão que você está usando no momento.
 
 # Conexão e Como Jogar com os amigos
